@@ -1,0 +1,9 @@
+// Inifile for 2D GameEngine (c)'2005 jerome Foucauld
+// do not use spaces
+
+// Screenmode (1)800x600 (2)1024x768 (3)1280x1024
+ScreenMode=2
+
+// Enable Fullscreen?
+WindowMode=TRUE
+
